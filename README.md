@@ -1,0 +1,1 @@
+A simple Employee Management System built using Java Spring Boot and Spring Data JPA. This project demonstrates a backend REST API that performs CRUD operations for managing employees. It is ideal for learning Spring Boot, JPA, MySQL/H2, and REST API development.
